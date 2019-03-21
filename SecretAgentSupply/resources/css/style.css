@@ -8,7 +8,7 @@ header{
   font-size: 1rem;
   padding-top: 0.66rem;
   padding-bottom: 0.66rem;
-  width: 960px;
+
 
 }
 .container{
@@ -61,7 +61,7 @@ nav{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   margin: auto;
-  width: 960px;
+
 }
 a{
   color: white;
@@ -71,7 +71,7 @@ a{
   display:flex;
   padding-top: 3rem;
   padding-bottom:4rem;
-  width: 960px;
+
 }
 
 }
@@ -106,5 +106,5 @@ footer{
   background-color: black;
   color: white;
   align-items: center;
-  width:960px;
+
 }
